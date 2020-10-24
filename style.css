@@ -1,0 +1,14 @@
+body{
+margin: 0px;
+background-color: antiquewhite;
+}
+
+h1 {
+    font-style: italic;
+    color: black
+}
+p {
+    font-weight: 200;
+    font-style: oblique;
+    font-weight: bolder;
+}
