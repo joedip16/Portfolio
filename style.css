@@ -12,3 +12,6 @@ p {
     font-style: oblique;
     font-weight: bolder;
 }
+.card-title{
+    text-align: center;
+}
