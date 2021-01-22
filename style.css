@@ -5,7 +5,9 @@ background-color: antiquewhite;
 
 h1 {
     font-style: italic;
-    color: black
+    color: black;
+    text-align: center;
+    
 }
 p {
     font-weight: 200;
@@ -13,5 +15,13 @@ p {
     font-weight: bolder;
 }
 .card-title{
+    text-align: center;
+}
+
+.myPicture{
+    background-color: antiquewhite;
+}
+
+.contact{
     text-align: center;
 }
